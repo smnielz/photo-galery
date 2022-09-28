@@ -50,6 +50,6 @@ div.photo:focus{
         width: 25%;
     }
     .photo-galery{
-        width: 600px;
+        width: 100%;
     }
 }
