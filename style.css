@@ -44,3 +44,12 @@ div.photo:hover,
 div.photo:focus{
     opacity: 1;
 }
+
+@media (max-width:900px){
+    .photo{
+        width: 25%;
+    }
+    .photo-galery{
+        width: 600px;
+    }
+}
